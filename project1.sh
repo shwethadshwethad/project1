@@ -37,3 +37,9 @@ sudo service "$i" restart
 fi
 done
 
+
+
+begfiovbal
+fhewoihfojp
+hfewiohilfb
+nbwueruqinclksafhiobv
